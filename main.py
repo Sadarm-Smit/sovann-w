@@ -1,5 +1,6 @@
 import logging
 import os
+os.system("pip install requirements.txt")
 from telegram.ext import *
 
 # Enable logging
